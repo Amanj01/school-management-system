@@ -1,0 +1,293 @@
+{
+  "HomePage": {
+    "student": "الطلاب",
+    "teacher": "المعلمين",
+    "parent": "آباء",
+    "staff": "الموظفين",
+    "AttendanceChart" : {
+      "attendance": "الحضور",
+      "present": "حاضر",
+      "absent": "غائب",
+      "sun": "الأحد",
+      "mon": "الإثنين",
+      "tue": "الثلاثاء",
+      "wed": "الأربعاء",
+      "thu": "الخميس"
+    },
+    "countChart": {
+      "student": "الطلاب",
+      "boys": "الأولاد",
+      "girls": "البنات",
+      "total": "الكل"
+    },
+      "financeChart": {
+        "finance": "المالية",
+        "income": "الدخل",
+        "expense": "المصروفات",
+        "jan": "يناير",
+        "feb": "فبراير",
+        "mar": "مارس",
+        "apr": "أبريل",
+        "may": "مايو",
+        "jun": "يونيو",
+        "jul": "يوليو",
+        "aug": "أغسطس",
+        "sep": "سبتمبر",
+        "oct": "أكتوبر",
+        "nov": "نوفمبر",
+        "dec": "ديسمبر"
+      },
+        "bigCalender": {
+          "subjects": {
+            "Math": "رياضيات",
+            "English": "إنجليزي",
+            "Biology": "أحياء",
+            "Physics": "فيزياء",
+            "Chemistry": "كيمياء",
+            "History": "تاريخ",
+            "Music": "موسيقى"
+          },          
+          "views": {
+            "month": "شهر",
+            "week": "أسبوع",
+            "workWeek": "أسبوع العمل",
+            "day": "يوم",
+            "schedule": "جدول"
+           }
+          }
+  },
+  "layout": {
+    "name": "مدرسة امانج",
+    "navbar": {
+      "searchPlaceholder": "بحث..."
+    }
+  },
+  "Calendar": {
+    "workWeek": "أسبوع العمل",
+    "day": "يوم",
+    "today": "اليوم",
+    "previous": "السابق",
+    "next": "التالي"
+  },
+ "menu": {
+   "Home": "الرئيسية",
+   "Teachers": "المعلمين",
+   "Students": "الطلاب",
+   "Parents": "الآباء",
+   "Subjects": "المواد",
+   "Classes": "الفصول",
+   "Lessons": "الدروس",
+    "Exams": "الامتحانات",
+   "Assignments": "الواجبات",
+   "Results": "النتائج",
+   "Attendance": "قائمة الغيابات",
+   "Events": "الأحداث",
+   "Messages": "الرسائل",
+   "Announcements": "التبلغات",
+   "Profile": "الملف الشخصي",
+   "Settings": "الإعدادات",
+   "Logout": "تسجيل الخروج",
+   "View All": "عرض الكل"
+    },
+  "adminPage": {
+    "title": "صفحة المدير",
+    "dashboard": "لوحة التحكم",
+    "users": "المستخدمون",
+    "logout": "تسجيل الخروج"
+  },
+    "table": {
+      "allStudents": "جميع الطلاب",
+      "allSubjects": "جميع المواد",
+      "allTeachers": "جميع المعلمين",
+      "allParents": "جميع الآباء",
+      "allClasses": "جميع الصفوف",
+      "allLessons": "جميع الدروس",
+      "allExams": "جميع الامتحانات",
+      "allAssignments": "جميع الواجبات",
+      "allResults": "جميع النتائج",
+      "allAttendance": "جميع قوائم الغيابات",
+      "allEvents": "جميع الأحداث",
+      "allMessages":"جميع الرسائل",
+      "allAnnouncements": "جميع التبلغات",
+      "col": {
+        "Info": "معلومات",
+        "Teacher ID": "معرف المعلم",
+        "Teachers": "المعلمون",
+        "Subject Name": "اسم المادة",
+        "Student ID": "معرف الطالب",
+        "Student Names": "أسماء الطلاب",
+        "Class Name": "اسم الصف",
+        "Capacity": "السعة",
+        "Supervisor": "المشرف",
+        "Class": "صف",
+        "Teacher": "معلم",
+        "Grade": "الدرجة",
+        "Subjects": "المواد",
+        "Classes": "الصفوف",
+        "Phone": "هاتف",
+        "Address": "عنوان",
+        "Actions": "إجراءات",
+        "Date": "التاريخ",
+        "Due Date": "تاريخ الاستحقاق",
+        "Stuudent": "الطالب",
+        "Score": "الدرجة",
+        "Start Time": "وقت البدء",
+        "End Time": "وقت الانتهاء",
+        "Title": "العنوان"
+      }  
+  },
+    "singlePage": {
+      "Attendance": "الحضور",
+      "Student's Schedule": "جدول الطالب",
+      "Teacher's Schedule": "جدول المعلم",
+      "Grade": "الدرجة",
+      "Class": "الفصل",
+      "Lessons": "الدروس",
+      "Branches": "الفروع",
+      "Classes": "الفصول",
+      "shortcuts": {
+        "Shortcuts": "الاختصارات",
+        "studentLessons": "دروس الطالب",
+        "studentExams": "امتحانات الطالب",
+        "studentAssignments": "واجبات الطالب",
+        "studentResults": "نتائج الطالب",
+        "studentTeachers": "معلمو الطالب",
+        "teacherClasses": "فصول المعلم",
+        "teacherLessons": "دروس المعلم",
+        "teacherExams": "امتحانات المعلم",
+        "teacherAssignments": "واجبات المعلم",
+        "teacherStudents": "طلاب المعلم"
+      }, 
+      "performanceChart": {
+        "Performance": "الأداء",
+        "desc": "من ١٠",
+        "1st Semester": "الفصل الأول",
+        "2nd Semester": "الفصل الثاني"
+      }
+    },  
+    "Subjects": {
+      "Math": "رياضيات",
+      "English": "إنجليزي",
+      "Biology": "أحياء",
+      "Physics": "فيزياء",
+      "Chemistry": "كيمياء",
+      "History": "تاريخ",
+      "Music": "موسيقى",
+      "Sports": "رياضة",
+      "Science": "علوم",
+      "Art": "فن",
+      "Literature": "أدب",
+      "Commerce": "تجارة",
+      "Geometry": "هندسة",
+      "Spanish": "الاسبانية",
+      "Geography": "جغرافيا"
+    },
+      "SubjectForm": {
+        "subjectName": "اسم المادة",
+        "enterSubjectName": "أدخل اسم المادة",
+        "teachers": "المعلمين",
+        "selectTeachers": "اختر المعلمين",
+        "submit": "إرسال"
+      },
+        "ParentForm": {
+          "name": "الاسم الكامل",
+          "enterName": "أدخل الاسم الكامل",
+          "email": "عنوان البريد الإلكتروني",
+          "enterEmail": "أدخل عنوان البريد الإلكتروني",
+          "phone": "رقم الهاتف",
+          "enterPhone": "أدخل رقم الهاتف",
+          "address": "العنوان",
+          "enterAddress": "أدخل العنوان الكامل",
+          "students": "الطلاب",
+          "selectStudents": "اختر الطلاب",
+          "submit": "إرسال"
+        },
+          "ClassForm": {
+            "className": "اسم الفصل",
+            "enterClassName": "أدخل اسم الفصل",
+            "capacity": "السعة",
+            "enterCapacity": "أدخل سعة الفصل",
+            "grade": "الصف",
+            "enterGrade": "أدخل الصف (1-12)",
+            "supervisor": "المشرف",
+            "selectSupervisor": "اختر مشرف الفصل",
+            "submit": "إرسال"
+          },
+            "LessonForm": {
+              "subject": "المادة",
+              "selectSubject": "اختر مادة",
+              "class": "الفصل",
+              "selectClass": "اختر فصلًا",
+              "teacher": "المعلم",
+              "selectTeacher": "اختر معلمًا",
+              "submit": "إنشاء درس"
+            },
+              "ExamForm": {
+                "subject": "المادة",
+                "selectSubject": "اختر مادة",
+                "class": "الفصل",
+                "selectClass": "اختر فصلًا",
+                "teacher": "المعلم",
+                "selectTeacher": "اختر معلمًا",
+                "date": "تاريخ الامتحان",
+                "submit": "جدول الامتحان"
+              },
+                "AssignmentForm": {
+                  "subject": "المادة",
+                  "selectSubject": "اختر مادة",
+                  "class": "الفصل",
+                  "selectClass": "اختر فصلًا",
+                  "teacher": "المعلم",
+                  "selectTeacher": "اختر معلمًا",
+                  "dueDate": "تاريخ الاستحقاق",
+                  "submit": "إنشاء واجب"
+                },  
+                  "ResultForm": {
+                    "subject": "المادة",
+                    "selectSubject": "اختر مادة",
+                    "class": "الفصل",
+                    "selectClass": "اختر فصلًا",
+                    "teacher": "المعلم",
+                    "selectTeacher": "اختر معلمًا",
+                    "student": "الطالب",
+                    "selectStudent": "اختر طالبًا",
+                    "date": "التاريخ",
+                    "type": "نوع النتيجة",
+                    "selectType": "اختر نوع النتيجة",
+                    "exam": "امتحان",
+                    "assignment": "واجب",
+                    "quiz": "اختبار",
+                    "score": "الدرجة",
+                    "enterScore": "أدخل الدرجة (0-100)",
+                    "submit": "حفظ النتيجة"
+                  },
+                    "EventForm": {
+                      "title": "عنوان الحدث",
+                      "enterTitle": "أدخل عنوان الحدث",
+                      "class": "الفصل",
+                      "selectClass": "اختر فصلًا",
+                      "date": "تاريخ الحدث",
+                      "startTime": "وقت البدء",
+                      "endTime": "وقت الانتهاء",
+                      "submit": "إنشاء حدث"
+                    },
+                      "AnnouncementForm": {
+                        "title": "عنوان الإعلان",
+                        "enterTitle": "أدخل عنوان الإعلان",
+                        "class": "الفصل",
+                        "selectClass": "اختر فصلًا",
+                        "date": "تاريخ الإعلان",
+                        "submit": "إنشاء إعلان"
+                      },                                                                                                     
+  "contactForm": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "submit": "إرسال"
+  },
+  "validation": {
+    "invalid": "البريد الإلكتروني غير صالح",
+    "required": "الاسم مطلوب",
+    "min": "يجب أن تكون الرسالة 10 أحرف على الأقل"
+  }
+}

@@ -1,4 +1,3 @@
-import Navbar from "@/components/NavBar";
 import { Locale, routing } from "@/i18n/routing";
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
@@ -37,13 +36,15 @@ export default async function RootLayout({
   // Providing all messages to the client
   // side is the easiest way to get started
   const messages = await getMessages();
+  // Add direction based on locale
+  const dir = locale === 'ku' || locale === 'ar' ? 'rtl' : 'ltr';
+
   return (
-    <html lang={locale}>
+    <html lang={locale} dir={dir}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className= "font-NotoKufiArabic "
       >
         <NextIntlClientProvider messages={messages}>
-          <Navbar />
           {children}
         </NextIntlClientProvider>
       </body>

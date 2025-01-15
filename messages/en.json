@@ -1,11 +1,284 @@
 {
   "HomePage": {
-    "title": "Hello world!",
-    "welcome": {
-      "title": "Welcome to the home page"
+    "student": "Students",
+    "teacher": "Teachers",
+    "parent": "Parents",
+    "staff": "Staffs",
+    "AttendanceChart" : {
+      "attendance": "Attendance",
+      "present": "present",
+      "absent": "Absent",
+      "sun": "Sun",
+      "mon" : "Mon",
+      "tue" : "Tue",
+      "wed" : "Wed",
+      "thu" : "Thu"
     },
-    "contact": "Go to the contact page"
+    "countChart": {
+      "student": "Students",
+      "boys": "boys",
+      "girls": "girls",
+      "total": "Total"
+    },
+    "financeChart": {
+      "finance": "Finance",
+      "income": "Income",
+      "expense": "Expense",
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December"
+    },
+    "bigCalender": {
+      "subjects": {
+        "Math": "Math",
+        "English": "English", 
+        "Biology": "Biology",
+        "Physics": "Physics",
+        "Chemistry": "Chemistry",
+        "History": "History",
+        "Music": "Music"
+      },      
+      "views": {
+        "month": "Month",
+        "week": "Week",
+        "workWeek": "Work Week",
+        "day": "Day",
+        "schedule": "Schedule"
+      }
+    }
   },
+  "layout": {
+    "name": "Amanj school",
+    "navbar": {
+      "searchPlaceholder": "Search..."
+    }
+  },
+  "Calendar": {
+    "work_week": "Work Week",
+    "day": "Day",
+    "today": "Today",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "menu":{
+    "Home": "Home",
+    "Teachers": "Teachers",
+    "Students": "Students",
+    "Parents": "Parents",
+    "Subjects": "Subjects",
+    "Classes": "Classes",
+    "Lessons": "Lessons",
+    "Exams": "Exams",
+    "Assignments": "Assignments",
+    "Results": "Results",
+    "Attendance" : "Absence list",
+    "Events" : "Events",
+    "Messages" : "Messages",
+    "Announcements" : "Announcements",
+    "Profile" : "Profile",
+    "Settings": "Settings",
+    "Logout" : "Logout",
+    "View All" : "View All"
+  },
+  "adminPage":{
+    "title": "Admin Page",
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "logout": "Logout"
+  },
+  "table":{
+    "allStudents": "All Students",
+    "allSubjects": "All Subjects",
+    "allTeachers": "All Teachers",
+    "allParents": "All Parents",
+    "allClasses": "All Classes",
+    "allLessons": "All Lessons",
+    "allExams": "All Exams",
+    "allAssignments": "All Assignments",
+    "allResults": "All Results",
+    "allEvents": "All Events",
+    "allMessages": "All Messages",
+    "allAnnouncements": "All Announcements",
+    "allAttendance": "All Attendance",
+    "col":{
+      "Info": "Info",
+      "Teacher ID": "Teacher ID",
+      "Teachers": "Teachers",
+      "Subject Name": "Subject Name",
+      "Student ID": "Student ID",
+      "Student Names": "Student Names",
+      "Class Name": "Class Name",
+      "Capacity": "Capacity",
+      "Supervisor": "Supervisor",
+      "Class": "Class",
+      "Teacher" : "Teacher",
+      "Grade": "Grade",
+      "Subjects": "Subjects",
+      "Classes": "Classes",
+      "Phone": "Phone",
+      "Address": "Address",
+      "Actions": "Actions",
+      "Date": "Date",
+      "Due Date": "Due Date",
+      "Student" : "Student",
+      "Score" : "Score",
+      "Start Time" : "Start Time",
+      "End Time" : "End Time",
+      "Title" : "Title"
+    }
+  },
+  "singlePage":{
+    "Attendance": "Attendance",
+    "Student's Schedule": "Student's Schedule",
+    "Teacher's Schedule": "Teacher's Schedule",
+    "Grade": "Grade",
+    "Class":"Class",
+    "Lessons": "Lessons",
+    "Branches": "Branches",
+    "Classes": "Classes",
+    "shortcuts": {
+      "Shortcuts": "Shortcuts",
+      "studentLessons": "Student's Lessons",
+      "studentExams": "Student's Exam",
+      "studentAssignments": "Student's Assignments",
+      "studentResults": "Student's Results",
+      "studentTeachers": "Student's Teacherss",
+      "teacherClasses": "Teacher's Classes",
+      "teacherLessons": "Teacher's Lessons",
+      "teacherExams": "Teacher's Exam",
+      "teacherAssignments": "Teacher's Assignments",
+      "teacherStudents": "Teacher's Students"
+    },
+    "performanceChart":{
+      "Performance": "Performance",
+      "desc": "of 10",
+      "1st Semester": "1st Semester",
+      "2nd Semester": "2nd Semester"
+    }
+  },
+    "Subjects": {
+      "Math": "Math",
+      "English": "English",
+      "Biology": "Biology",
+      "Physics": "Physics",
+      "Chemistry": "Chemistry",
+      "History": "History",
+      "Music": "Music",
+      "Sports": "Sports",
+      "Science": "Science",
+      "Art": "Art",
+      "Literature": "Literature",
+      "Commerce": "Commerce",
+      "Geometry": "Geometry",
+      "Spanish": "Spanish",
+      "Geography": "Geography"
+    },
+    "SubjectForm": {
+      "subjectName": "Subject Name",
+      "enterSubjectName": "Enter subject name",
+      "teachers": "Teachers",
+      "selectTeachers": "Select teachers",
+      "submit": "Submit"
+    },
+      "ParentForm": {
+        "name": "Full Name",
+        "enterName": "Enter full name",
+        "email": "Email Address",
+        "enterEmail": "Enter email address",
+        "phone": "Phone Number",
+        "enterPhone": "Enter phone number",
+        "address": "Address",
+        "enterAddress": "Enter full address",
+        "students": "Students",
+        "selectStudents": "Select students",
+        "submit": "Submit"
+      },
+        "ClassForm": {
+          "className": "Class Name",
+          "enterClassName": "Enter class name",
+          "capacity": "Capacity",
+          "enterCapacity": "Enter class capacity",
+          "grade": "Grade",
+          "enterGrade": "Enter grade (1-12)",
+          "supervisor": "Supervisor",
+          "selectSupervisor": "Select class supervisor",
+          "submit": "Submit"
+        },
+          "LessonForm": {
+            "subject": "Subject",
+            "selectSubject": "Select a subject",
+            "class": "Class",
+            "selectClass": "Select a class",
+            "teacher": "Teacher",
+            "selectTeacher": "Select a teacher",
+            "submit": "Create Lesson"
+          },
+            "ExamForm": {
+              "subject": "Subject",
+              "selectSubject": "Select a subject",
+              "class": "Class",
+              "selectClass": "Select a class",
+              "teacher": "Teacher",
+              "selectTeacher": "Select a teacher",
+              "date": "Exam Date",
+              "submit": "Schedule Exam"
+            },
+              "AssignmentForm": {
+                "subject": "Subject",
+                "selectSubject": "Select a subject",
+                "class": "Class",
+                "selectClass": "Select a class",
+                "teacher": "Teacher",
+                "selectTeacher": "Select a teacher",
+                "dueDate": "Due Date",
+                "submit": "Create Assignment"
+              },
+                "ResultForm": {
+                  "subject": "Subject",
+                  "selectSubject": "Select a subject",
+                  "class": "Class",
+                  "selectClass": "Select a class",
+                  "teacher": "Teacher",
+                  "selectTeacher": "Select a teacher",
+                  "student": "Student",
+                  "selectStudent": "Select a student",
+                  "date": "Date",
+                  "type": "Result Type",
+                  "selectType": "Select result type",
+                  "exam": "Exam",
+                  "assignment": "Assignment",
+                  "quiz": "Quiz",
+                  "score": "Score",
+                  "enterScore": "Enter score (0-100)",
+                  "submit": "Save Result"
+                },
+                  "EventForm": {
+                    "title": "Event Title",
+                    "enterTitle": "Enter event title",
+                    "class": "Class",
+                    "selectClass": "Select a class",
+                    "date": "Event Date",
+                    "startTime": "Start Time",
+                    "endTime": "End Time",
+                    "submit": "Create Event"
+                  },
+                    "AnnouncementForm": {
+                      "title": "Announcement Title",
+                      "enterTitle": "Enter announcement title",
+                      "class": "Class",
+                      "selectClass": "Select a class",
+                      "date": "Announcement Date",
+                      "submit": "Create Announcement"
+                    },                                                                                       
   "contactForm": {
     "name": "Name",
     "email": "Email",

@@ -49,13 +49,18 @@ export default {
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
-  			}
+  			},
+				amanjBlue: '#4B90E2',
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
   			md: 'calc(var(--radius) - 2px)',
   			sm: 'calc(var(--radius) - 4px)'
-  		}
+  		},
+			fontFamily: {
+				NotoKufiArabic: ['NotoKufiArabic', 'sans-serif'],
+				sans: ['Work Sans', 'sans-serif'],
+			}
   	}
   },
   plugins: [require("tailwindcss-animate")],

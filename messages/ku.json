@@ -1,0 +1,293 @@
+{
+  "HomePage": {
+    "student": "خوێندکاران",
+    "teacher": "مامۆستایان",
+    "parent": "دایک و باوک",
+    "staff": "کارمەندان",
+    "AttendanceChart" : {
+      "attendance": "ئامادەبوون لە قووتابخەنە",
+      "present": "هاتن",
+      "absent": "نەهاتن",
+      "sun": "یەکشەممە",
+      "mon": "دووشەممە",
+      "tue": "سێ شەممە",
+      "wed": "چوار شەممە",
+      "thu": "پێنج شەممە"
+    },
+    "countChart": {
+      "student": "خوێندکاران",
+      "boys": "کوڕان",
+      "girls": "کچان",
+      "total": "گشت"
+    },
+      "financeChart": {
+        "finance": "دارایی",
+        "income": "داهات",
+        "expense": "خرجی",
+        "jan": "کانونی دووەم",
+        "feb": "شوبات",
+        "mar": "ئازار",
+        "apr": "نیسان",
+        "may": "ئایار",
+        "jun": "حوزەیران",
+        "jul": "تەمموز",
+        "aug": "ئاب",
+        "sep": "ئەیلوول",
+        "oct": "تشرینی یەکەم",
+        "nov": "تشرینی دووەم",
+        "dec": "کانونی یەکەم"
+      },
+      "bigCalender": {
+        "subjects": {
+          "Math": "بیرکاری",
+          "English": "ئینگلیزی",
+          "Biology": "زیندەوەرزانی",
+          "Physics": "فیزیا",
+          "Chemistry": "کیمیا",
+          "History": "مێژوو",
+          "Music": "مۆسیقا"
+        },        
+        "views": {
+          "month": "مانگ",
+          "week": "هەفتە",
+          "workWeek": "هەفتەی کار",
+          "day": "ڕۆژ",
+          "schedule": "خشتە"
+          }
+        }
+  },  
+  "layout": {
+    "name": "قووتابخانەی ئامانج",
+    "navbar": {
+      "searchPlaceholder": "گەڕان..."
+    }
+  },
+  "Calendar": {
+    "workWeek": "هەفتەی کار",
+    "day": "ڕۆژ",
+    "today": "ئەمڕۆ",
+    "previous": "پێشوو",
+    "next": "دواتر"
+  },
+  "menu": {
+    "Home": "سەرەکی",
+    "Teachers": "مامۆستایان",
+    "Students": "خوێندکاران",
+    "Parents": "دایک و باوکان",
+    "Subjects": "بابەتەکان",
+    "Classes": "پۆلەکان",
+    "Lessons": "وانەکان",
+    "Exams": "تاقیکردنەوەکان",
+    "Assignments": "ئەرکەکان",
+    "Results": "ئەنجامەکان",
+    "Attendance": "لیستی ئامادەنەبوون",
+    "Events": "رووداوەکان",
+    "Messages": "پەیامەکان",
+    "Announcements": "ئاگادارکردنەوەکان",
+    "Profile": "پەڕەی تایبەتی",
+    "Settings": "ڕێکخستنەکان",
+    "Logout": "چوونە دەرەوە",
+    "View All": "زاتر ببینە"
+  },
+  "adminPage": {
+    "title": "پەیجی بەڕێوەبەر",
+    "dashboard": "داشبۆرد",
+    "users": "بەکارهێنەران",
+    "logout": "چوونە دەرەوە"
+  },
+    "table": {
+        "allStudents": "هەموو خوێندکاران",
+        "allSubjects": "هەموو بابەتەکان",
+        "allTeachers": "هەموو مامۆستایان",
+        "allParents": "هەموو دایک و باوکەکان",
+        "allClasses": "هەموو پۆلەکان",
+        "allLessons": "هەموو وانەکان",
+        "allExams": "هەموو تاقیکردنەوەکان",
+        "allAssignments": "هەموو ئەرکەکان",
+        "allResults": "هەموو ئەنجامەکان",
+        "allEvents": "هەموو ڕووداوەکان",
+        "allMessages": "هەموو پەیامەکان",
+        "allAnnouncements": "هەموو ئاگادارکردنەوەکان",
+        "allAttendance": "هەموو ئامادەبوونەکان",    
+      "col": {
+        "Info": "زانیاری",
+        "Teacher ID": "ناسنامەی مامۆستا",
+        "Teachers": "مامۆستايەکان",
+        "Subject Name": "ناوی بابەت",
+        "Student ID": "ناسنامەی قوتابی",
+        "Student Names": "ناوی قوتابيان",
+        "Class Name": "ناوی پۆل",
+        "Capacity": "توانا",
+        "Supervisor": "سەرپەرشتیار",
+        "Class": "پۆل",
+        "Teacher": "مامۆستا",
+        "Grade": "نمرە",
+        "Subjects": "بابەتەکان",
+        "Classes": "پۆلەکان",
+        "Phone": "تەلەفۆن",
+        "Address": "ناونیشان",
+        "Actions": "کردەکان",
+        "Date": "بەروار",
+        "Due Date": "بەرواری کۆتایی هاتن",
+        "Student" : "قوتابی",
+        "Score": "نمرە",
+        "Start Time": "کاتی دەستپێك",
+        "End Time": "کاتی کۆتایی هاتن",
+        "Title": "ناونیشان"
+      }  
+  },
+    "singlePage": {
+      "Attendance": "ئامادەبونی خوێندکار",
+      "Student's Schedule": "خشتەی خوێندکار",
+      "Teacher's Schedule": "خشتەی مامۆستا",
+      "Grade": "قۆناغ",
+      "Class": "پۆل",
+      "Lessons": "وانەکان",
+      "Branches": "لقەکان",
+      "Classes": "پۆلەکان",
+      "shortcuts": {
+        "Shortcuts": "کورتەکان",
+        "studentLessons": "وانەکانی خوێندکار",
+        "studentExams": "تاقیکردنەوەکانی خوێندکار",
+        "studentAssignments": "ئەرکەکانی خوێندکار",
+        "studentResults": "ئەنجامەکانی خوێندکار",
+        "studentTeachers": "مامۆستایانی خوێندکار",
+        "teacherClasses": "پۆلەکانی مامۆستا",
+        "teacherLessons": "وانەکانی مامۆستا",
+        "teacherExams": "تاقیکردنەوەکانی مامۆستا",
+        "teacherAssignments": "ئەرکەکانی مامۆستا",
+        "teacherStudents": "خوێندکارانی مامۆستا"
+      },  
+      "performanceChart": {
+        "Performance": "ئاست",
+        "desc": "لە ١٠",
+        "1st Semester": "وەرزی یەکەم",
+        "2nd Semester": "وەرزی دووەم"
+      }
+    },   
+    "Subjects": {
+      "Math": "ماتماتیک",
+      "English": "ئەنگلیزی",
+      "Biology": "بایۆلۆجی",
+      "Physics": "فیزیک",
+      "Chemistry": "کیمیا",
+      "History": "مێژوو",
+      "Music": "مۆسیقا",
+      "Sports": "وەرزش",
+      "Science": "زانست",
+      "Art": "هونەر",
+      "Literature": "ئەدەب",
+      "Commerce": "بازرگانی",
+      "Geometry": "ئەندازە",
+      "Spanish": "سپانیا",
+      "Geography": "جوگرافیا"
+    },
+      "SubjectForm": {
+        "subjectName": "ناوی بابەت",
+        "enterSubjectName": "ناوی بابەت بنووسە",
+        "teachers": "مامۆستایان",
+        "selectTeachers": "مامۆستایان هەڵبژێرە",
+        "submit": "پێشکەشکردن"
+      },
+        "ParentForm": {
+          "name": "ناوی تەواو",
+          "enterName": "ناوی تەواو بنووسە",
+          "email": "ناونیشانی ئیمەیڵ",
+          "enterEmail": "ناونیشانی ئیمەیڵ بنووسە",
+          "phone": "ژمارەی تەلەفۆن",
+          "enterPhone": "ژمارەی تەلەفۆن بنووسە",
+          "address": "ناونیشان",
+          "enterAddress": "ناونیشانی تەواو بنووسە",
+          "students": "خوێندکاران",
+          "selectStudents": "خوێندکاران هەلبژێرە",
+          "submit": "ناردن"
+        },
+          "ClassForm": {
+            "className": "ناوی وانە",
+            "enterClassName": "ناوی وانە بنووسە",
+            "capacity": "توانای لەخۆگرتن",
+            "enterCapacity": "توانای لەخۆگرتن بنووسە",
+            "grade": "پۆل",
+            "enterGrade": "پۆل بنووسە (1-12)",
+            "supervisor": "سەرپەرشتیار",
+            "selectSupervisor": "سەرپەرشتیاری وانە هەلبژێرە",
+            "submit": "ناردن"
+          },
+            "LessonForm": {
+              "subject": "بابەت",
+              "selectSubject": "بابەتێك هەڵبژێرە",
+              "class": "وانە",
+              "selectClass": "وانە هەڵبژێرە",
+              "teacher": "مامۆستا",
+              "selectTeacher": "مامۆستا هەڵبژێرە",
+              "submit": "وانە دروست بکە"
+            },
+              "ExamForm": {
+                "subject": "بابەت",
+                "selectSubject": "بابەتێك هەڵبژێرە",
+                "class": "وانە",
+                "selectClass": "وانە هەڵبژێرە",
+                "teacher": "مامۆستا",
+                "selectTeacher": "مامۆستا هەڵبژێرە",
+                "date": "رێککەوتی تاقیکردنەوە",
+                "submit": "خشتەی تاقیکردنەوە"
+              },
+                "AssignmentForm": {
+                  "subject": "بابەت",
+                  "selectSubject": "بابەتێك هەڵبژێرە",
+                  "class": "وانە",
+                  "selectClass": "وانە هەڵبژێرە",
+                  "teacher": "مامۆستا",
+                  "selectTeacher": "مامۆستا هەڵبژێرە",
+                  "dueDate": "رێککەوتی تۆمار",
+                  "submit": "دروستکردنی ئەرک"
+                },
+                  "ResultForm": {
+                    "subject": "بابەت",
+                    "selectSubject": "بابەتێك هەڵبژێرە",
+                    "class": "وانە",
+                    "selectClass": "وانە هەڵبژێرە",
+                    "teacher": "مامۆستا",
+                    "selectTeacher": "مامۆستا هەڵبژێرە",
+                    "student": "خوێندکار",
+                    "selectStudent": "خوێندکار هەڵبژێرە",
+                    "date": "رێککەوت",
+                    "type": "جۆری ئەنجام",
+                    "selectType": "جۆری ئەنجام هەڵبژێرە",
+                    "exam": "تاقیکردنەوە",
+                    "assignment": "ئەرک",
+                    "quiz": "کوێز",
+                    "score": "نمرە",
+                    "enterScore": "نمرە بنووسە (0-100)",
+                    "submit": "پاشەکەوتکردنی ئەنجام"
+                  },
+                    "EventForm": {
+                      "title": "ناونیشانی ڕووداو",
+                      "enterTitle": "ناونیشانی ڕووداو بنووسە",
+                      "class": "وانە",
+                      "selectClass": "وانە هەڵبژێرە",
+                      "date": "رێککەوتی ڕووداو",
+                      "startTime": "کاتی دەستپێکردن",
+                      "endTime": "کاتی کۆتایی",
+                      "submit": "دروستکردنی ڕووداو"
+                    },
+                      "AnnouncementForm": {
+                        "title": "ناونیشانی ئاگاداری",
+                        "enterTitle": "ناونیشانی ئاگاداری بنووسە",
+                        "class": "وانە",
+                        "selectClass": "وانە هەلبژێرە",
+                        "date": "رێککەوتی ئاگاداری",
+                        "submit": "دروستکردنی ئاگاداری"
+                      },                    
+  "contactForm": {
+    "name": "ناو",
+    "email": "ئیمەیڵ",
+    "message": "پەیام",
+    "submit": "ناردن"
+  },
+  "validation": {
+    "invalid": "ئیمەیڵەکە دروست نییە",
+    "required": "ناو پێویستە",
+    "min": "پەیام پێویستە لانیکەم ١٠ پیت بێت"
+  }
+}
